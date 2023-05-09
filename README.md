@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**LeonardoPradoGomes/LeonardoPradoGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é leonardo Prado
 
-Here are some ideas to get you started:
+- Estou estudando o [Alura]
+- Estou me densenvolvendo na linguagem javaScript
+- Utilizo esseespaço para minha organização e compartilhamento dosmeus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
